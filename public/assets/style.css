@@ -1,0 +1,8 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";main {
+    color: rgb(185, 90, 90);
+}
+
